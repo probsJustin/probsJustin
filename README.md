@@ -2,6 +2,9 @@
 ## About: 
 I probably work as a developer at an application performance monitoring company somewhere.<BR>
 
+The first album I ever purchased was The Bright Lights of America by Anti-Flag 
+I think thats it.
+
 ## Contact:
 If you need support/help with a problem feel free to drop by my [discord server](https://discord.gg/tGJum6hkbA)<BR>
 If you dont want to join the server but want to DM me feel free: probsJustin#6785<BR>
