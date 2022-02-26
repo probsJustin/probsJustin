@@ -1,4 +1,4 @@
-# Probably Justin 👋 ☢️
+# Probably Justin☢️
 ## About: 
 I probably work as a developer at an application performance monitoring company somewhere.<BR>
 
