@@ -8,7 +8,6 @@ From **massive data pipelines** to **pharmaceutical traceability**, **FedRAMP co
 If you can deploy it, trace it, map it, or debug it—I’ve *probably* done it (or broken it trying).
 
 Fun fact: The first album I ever bought was *The Bright Lights of America* by Anti-Flag.  
-Still waiting for them to drop a song about OpenTelemetry.
 
 ## Interests
 - ☁️ Cloud-Native Observability & Auto-Instrumentation (OpenTelemetry / Dynatrace / Datadog)
